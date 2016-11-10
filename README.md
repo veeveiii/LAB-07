@@ -368,3 +368,6 @@ The sine of       6.00 = -0.279415         *
 3.	y = tan(x)
 ```
 	
+<hr>
+Ailada Samingkaew
+<hr>
