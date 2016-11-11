@@ -66,6 +66,44 @@ Maximum Value :2147483647
             Console.WriteLine("Minimum Value :" + (int) char.MinValue);
             Console.WriteLine("Maximum Value :" + (int) char.MaxValue);
 ```
+##บันทึกผลการทดลอง
+###byte
+![](https://scontent.fbkk2-2.fna.fbcdn.net/v/t34.0-12/14996403_1134843113302605_381991164_n.png?oh=16eecf8df877a05a4cdd55ef28ecbb54&oe=5827ED6E)
+<hr>
+###char
+![](https://scontent.fbkk2-2.fna.fbcdn.net/v/t34.0-12/15033805_1134843109969272_969397314_n.png?oh=26e7370c9b212353070c1e0e34be6053&oe=5827EE2C)
+<hr>
+###bool
+![](https://scontent.fbkk2-2.fna.fbcdn.net/v/t34.0-12/15049736_1134843099969273_1941030731_n.png?oh=5988e150622f191bd6fd58f28e6a321f&oe=5827E160)
+<hr>
+###sbyte
+![](https://scontent.fbkk2-2.fna.fbcdn.net/v/t34.0-12/15046170_1134843103302606_118613577_n.png?oh=8ee9cafc5adf811c348b862482bc1480&oe=5827AFCB)
+<hr>
+###short
+![](https://scontent.fbkk2-2.fna.fbcdn.net/v/t34.0-12/14997242_1134843106635939_1153700724_n.png?oh=9fa6978cdb6d58e4794d97944c0ec0c0&oe=5828FAF7)
+<hr>
+###ushort
+![](https://scontent.fbkk2-2.fna.fbcdn.net/v/t34.0-12/15050271_1134843116635938_2024081070_n.png?oh=a3a5cc5898ca79bd94b5df6eb579c572&oe=5827F3AC)
+<hr>
+###uint
+![](https://scontent.fbkk2-2.fna.fbcdn.net/v/t34.0-12/15058559_1134842609969322_167229020_n.png?oh=40af330c7c0d372ebb6e300413b7ce8b&oe=58282409)
+<hr>
+###float
+![](https://scontent.fbkk2-2.fna.fbcdn.net/v/t34.0-12/14997073_1134842606635989_660115290_n.png?oh=6e1ec4b3d6d1759285653af6ae13d408&oe=5827F054)
+<hr>
+###double
+![](https://scontent.fbkk2-2.fna.fbcdn.net/v/t34.0-12/15050357_1134842603302656_162859922_n.png?oh=3c1ad7814d56df2cd30bd4a4e6638c78&oe=5828E02D)
+<hr>
+###decimal
+![](https://scontent.fbkk2-2.fna.fbcdn.net/v/t34.0-12/15033558_1134842596635990_434753484_n.png?oh=2f772cbae7cabb6c1379b0684587a8d0&oe=58281C1B)
+<hr>
+###long
+![](https://scontent.fbkk2-2.fna.fbcdn.net/v/t34.0-12/15033615_1134842593302657_1735844694_n.png?oh=36c01f93e067c8af21e3317c8c5d98e4&oe=5828F305)
+<hr>
+###ulong
+![](https://scontent.fbkk2-2.fna.fbcdn.net/v/t34.0-12/15049729_1134842599969323_1036327527_n.png?oh=37e0788030dbf81ad45006a46691d335&oe=5828E463)
+<hr>
+<hr>
  2.2).	การใช้งานข้อมูลชนิดต่างๆ
  2.2.1).	ข้อมูลชนิดตรรกะ The Boolean Type
 
