@@ -681,12 +681,72 @@ The sine of       6.00 = -0.279415         *
 ```
 ###1.y=x2ได้ผลการทดลองดังนี้
 ![](https://scontent.fbkk1-1.fna.fbcdn.net/v/t34.0-12/15086205_1136845159769067_710349618_n.png?oh=208cdb8f6fa544111834fee80c628293&oe=582A0937)
+###CODE
+```
+using System;
+public class MathTest
+{ /*Ailada S.*/
+    static void Main(string[] args)
+    {
+        for (float i = 0; i < Math.PI * 2.0F; i += 0.3F)
+        {
+            Console.WriteLine("The sine of {0,10:F} = {1,-10:F6}" + spaces(i*i) + "*", i, i*i);
+        }
+
+    }
+    private static string spaces(double val)
+    {
+        string SpaceString = new String(' ', (int)(val)+10);
+        return SpaceString;
+    }
+}
+```
 <hr>
 ###2.y=cos(x)ได้ผลการทดลองดังนี้
 ![](https://scontent.fbkk1-1.fna.fbcdn.net/v/t34.0-12/15050040_1136846996435550_1254679956_n.png?oh=dbb1c58bc9243f5a7caabfb7de79a73c&oe=5829CA0A)
+###CODE
+```
+using System;
+public class MathTest
+{/*Ailada S.*/
+    static void Main(string[] args)
+    {
+        for (float i = 0; i < Math.PI * 2.0F; i += 0.3F)
+        {
+            Console.WriteLine("The sine of {0,10:F} = {1,-10:F6}" + spaces(Math.Cos(i)) + "*", i, Math.Cos(i));
+        }
+
+    }
+    private static string spaces(double val)
+    {
+        string SpaceString = new String(' ', (int)(val*5.0)+10);
+        return SpaceString;
+    }
+}
+```
 <hr>
 ###3.y=tan(x)ได้ผลการทดลองดังนี้
 ![](https://scontent.fbkk1-1.fna.fbcdn.net/v/t34.0-12/15032406_1136849639768619_799431856_n.png?oh=3e62ef99fb9afef0c687101fd78096c1&oe=5829F871)
+###CODE
+```
+using System;
+public class MathTest
+{
+    static void Main(string[] args)
+    {/*Ailada S.*/
+        for (float i = 0; i < Math.PI * 2.0F; i += 0.3F)
+        {
+            Console.WriteLine("The sine of {0,10:F} = {1,-10:F6}" + spaces(Math.Tan(i)) + "*", i, Math.Tan(i));
+        }
+
+    }
+    private static string spaces(double val)
+    {
+        string SpaceString = new String(' ', (int)(val) + 25);
+        return SpaceString;
+    }
+}
+```
 <hr>
 Ailada Samingkaew
 <hr>
