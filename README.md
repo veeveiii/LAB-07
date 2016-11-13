@@ -686,7 +686,7 @@ The sine of       6.00 = -0.279415         *
 ![](https://scontent.fbkk1-1.fna.fbcdn.net/v/t34.0-12/15050040_1136846996435550_1254679956_n.png?oh=dbb1c58bc9243f5a7caabfb7de79a73c&oe=5829CA0A)
 <hr>
 ###3.y=tan(x)ได้ผลการทดลองดังนี้
-![](https://scontent.fbkk1-1.fna.fbcdn.net/v/t34.0-12/15050040_1136846996435550_1254679956_n.png?oh=dbb1c58bc9243f5a7caabfb7de79a73c&oe=5829CA0A)
+![](https://scontent.fbkk1-1.fna.fbcdn.net/v/t34.0-12/15032406_1136849639768619_799431856_n.png?oh=3e62ef99fb9afef0c687101fd78096c1&oe=5829F871)
 <hr>
 Ailada Samingkaew
 <hr>
