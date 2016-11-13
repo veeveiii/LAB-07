@@ -257,6 +257,20 @@ namespace thruthTable
 6. Exclusive OR
 ```
 
+##จากการทดลองได้ผลดังนี้
+![](https://scontent.fbkk1-1.fna.fbcdn.net/v/t34.0-12/15033817_1136830866437163_532750442_n.png?oh=94176b5ed41fe428da2bb784e7406582&oe=5829E36A)
+
+ต่อ
+
+![](https://scontent.fbkk1-1.fna.fbcdn.net/v/t34.0-12/15049612_1136830869770496_1805532969_n.png?oh=acdad43e049a550906d362ea8a94db80&oe=5829A8DC)
+
+<hr>
+
+###code 
+
+
+
+
 
 
   2.2.2.	ชนิดข้อมูลตัวเลขจำนวนเต็ม (Integer Types)
